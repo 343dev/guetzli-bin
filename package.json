@@ -20,6 +20,7 @@
 		"index.js",
 		"cli.js",
 		"lib",
+		"test/fixtures",
 		"vendor/source"
 	],
 	"keywords": [
